@@ -273,6 +273,7 @@ $(function() {
 	c.load("<div class='comment writecode'>&nbsp;* Have a nice day and I’m looking forward to hearing from you!</div>");
 	c.load("<div class='comment writecode'>&nbsp;* </div>");
 	c.load("<div class='comment writecode'>&nbsp;* Comment by Benjamin Hao.</div>");
+	c.load("<div class='comment writecode'>&nbsp;* GitHub: <a href='https://github.com/BenjaminHao' target='_blank'>https://github.com/BenjaminHao</a></div>");
 	c.load("<div class='comment writecode'>&nbsp;* June 13rd, 2018</div>");
 	c.load("<div class='comment writecode'>&nbsp;*/</div></p>");
 
